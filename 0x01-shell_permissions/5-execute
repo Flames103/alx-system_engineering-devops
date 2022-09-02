@@ -1,2 +1,2 @@
 #!/bin/bashch
-mod u+x hello
+chmod u+x hello
