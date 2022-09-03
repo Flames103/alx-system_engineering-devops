@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -lna
+mv [[:upper:]]* /tmp/u
+
