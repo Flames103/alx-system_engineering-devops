@@ -1,5 +1,5 @@
-
-rted
+#!/usr/bin/python3
+# csv exported
 import json
 from requests import get
 from sys import argv
